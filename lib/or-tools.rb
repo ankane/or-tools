@@ -28,6 +28,7 @@ require "or_tools/basic_scheduler"
 require "or_tools/seating"
 require "or_tools/sudoku"
 require "or_tools/tsp"
+require "or_tools/vrp"
 
 module ORTools
   class Error < StandardError; end
